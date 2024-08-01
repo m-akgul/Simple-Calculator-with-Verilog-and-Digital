@@ -1,2 +1,5 @@
-# calculator with Verilog and Digital-
+# Simple Calculator with Verilog and Digital
+
+ ## Overview
+
  
